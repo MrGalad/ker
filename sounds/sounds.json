@@ -1,0 +1,14 @@
+{
+    "elmo": {
+      "sounds": [
+        "Elmo"
+      ],
+      "category": "player"
+    },
+    "kermit": {
+      "sounds": [
+        "Kermit"
+      ],
+      "category": "player"
+    }
+}
